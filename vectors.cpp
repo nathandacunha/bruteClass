@@ -4,7 +4,8 @@ using namespace std;
 
 int main() {
     vector<string> carros = {"volvo", "bmw", "vrumvrum"};
-    
+    // sintaxe do vector + tamanho
+    vector<int> vec(4);
     // como imprimir os valores dentro do vector usando for em cpp
     for(string carro: carros) {
         cout << carro << endl;
