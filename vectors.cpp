@@ -18,5 +18,10 @@ int main() {
         cout << carro << endl;
     }
 
+
+    // definindo o tamanho em um vector size
+    cout << "Tamanho do vector" << endl;
+    cout << carros.size() << endl;
+
     return 0;
 }
