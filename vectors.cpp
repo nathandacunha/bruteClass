@@ -10,5 +10,13 @@ int main() {
         cout << carro << endl;
     }
 
+    // adicionado o elemento no vector 
+    carros.push_back("paiaCarro");
+
+    cout << "Novo elemento adicionado no vector" << endl;
+    for(string carro: carros) {
+        cout << carro << endl;
+    }
+
     return 0;
 }
