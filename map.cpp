@@ -5,7 +5,7 @@ int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
 
-    // semelhante ao objetos em js
+    // map é semelhante ao objetos em js********
 
     // map<string, int> mapa;
     // mapa["um"] = 1;
@@ -20,7 +20,7 @@ int main() {
 
     // cout << mapa["um"] << endl;
 
-    // é possivel usar map como um array
+    // é possivel usar map como um array em cpp
 
     int n;
     cin >> n;
